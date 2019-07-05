@@ -31,17 +31,17 @@ vue2.6 + vuex + vue-router + axios + ES6/7 + sass + flex + MuseUI
   - [x] 获取热门搜索，搜索单曲，专辑，歌手，歌单，MV，电台，用户 
 
 - [x]  查看歌手信息，包括单曲，专辑，mv，介绍，相似歌手
-- [x] 懒加载
+- [x] 图片懒加载
 
 ### 部分效果图
 
-首页
+![首页](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/sy.bmp)![歌单详情](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/gdxqy.bmp)
 
-<img src="<https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/sy.bmp>" width="375"/>
+![歌单](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/gedan.bmp)![音乐播放页](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/gq.bmp)
 
+![MV](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/mv.bmp)![排行榜](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/phb.bmp)
 
-
-![首页](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/sy.bmp)
+![搜索](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/ss.bmp)![搜索首页](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/ss2.bmp)
 
 
 
