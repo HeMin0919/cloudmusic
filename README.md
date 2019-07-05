@@ -35,7 +35,7 @@ vue2.6 + vuex + vue-router + axios + ES6/7 + sass + flex + MuseUI
 
 ### 部分效果图
 
-
+![首页](https://github.com/liuhuakun/BrushShots/blob/master/1.PNG)
 
 
 
@@ -44,7 +44,7 @@ vue2.6 + vuex + vue-router + axios + ES6/7 + sass + flex + MuseUI
 ##### 安装后台服务器
 
 ```bash
-git clone https://github.com/zhixuanziben/MusicApi.git  
+git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git  
 
 cd MusicApi
 
