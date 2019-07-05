@@ -35,7 +35,13 @@ vue2.6 + vuex + vue-router + axios + ES6/7 + sass + flex + MuseUI
 
 ### 部分效果图
 
-![首页](https://github.com/liuhuakun/BrushShots/blob/master/1.PNG)
+首页
+
+<img src="<https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/sy.bmp>" width="375"/>
+
+
+
+![首页](https://raw.githubusercontent.com/HeMin0919/cloudmusic/master/pic/sy.bmp)
 
 
 
