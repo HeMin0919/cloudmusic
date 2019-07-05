@@ -1,0 +1,167 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot?smhoa3');
+  src: url('../fonts/icomoon.eot?smhoa3#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?smhoa3') format('truetype'), url('../fonts/icomoon.woff?smhoa3') format('woff'), url('../fonts/icomoon.svg?smhoa3#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* 主页搜索 */
+.icon-search_home:before {
+  content: "\e921";
+}
+
+/* 点赞 */
+.icon-zan:before {
+  content: "\e918";
+}
+
+/* 左箭头 */
+.icon-Left-arrow:before {
+  content: "\e91d";
+}
+/* 喜欢 */
+.icon-aixin:before {
+  content: "\e915";
+}
+
+/* 广播电台 */
+.icon-radio-station:before {
+  content: "\e917";
+}
+
+/* 省略 */
+.icon-bypass:before {
+  content: "\e916";
+}
+
+/* 视频 */
+.icon-video:before {
+  content: "\e919";
+}
+
+.icon-搜索-搜索:before {
+  content: "\e91a";
+}
+
+/* 主页音乐图标 */
+.icon-cloudmusic:before {
+  content: "\e91b";
+}
+
+/* 个人中心 */
+.icon-my:before {
+  content: "\e91c";
+}
+
+/* 右键 */
+.icon-Rightclick:before {
+  content: "\e91e";
+}
+
+/* 专辑 */
+.icon-album:before {
+  content: "\e91f";
+}
+
+/* 耳机 */
+.icon-earphone:before {
+  content: "\e900";
+}
+
+/* 排行榜 */
+.icon-Leaderboard:before {
+  content: "\e901";
+}
+
+/* 日推 */
+.icon-Dailypush:before {
+  content: "\e902";
+}
+
+/* 收音机 */
+.icon-radio:before {
+  content: "\e903";
+}
+/* 收藏 */
+.icon-collection:before {
+  content: "\e904";
+}
+/* 评论 */
+.icon-comment:before {
+  content: "\e905";
+}
+/* 下载 */
+.icon-download:before {
+  content: "\e906";
+}
+/* 列表 */
+.icon-list:before {
+  content: "\e907";
+}
+
+/* 我的 */
+.icon-mine:before {
+  content: "\e908";
+}
+/* 下一首 */
+.icon-next:before {
+  content: "\e909";
+}
+
+.icon-nextmusic:before {
+  content: "\e90c";
+}
+
+.icon-pause:before {
+  content: "\e90a";
+}
+
+.icon-play:before {
+  content: "\e90b";
+}
+
+.icon-prewmusic:before {
+  content: "\e920";
+}
+
+.icon-serch:before {
+  content: "\e913";
+}
+
+.icon-share:before {
+  content: "\e911";
+}
+
+.icon-singlecycle:before {
+  content: "\e910";
+}
+
+.icon-up:before {
+  content: "\e90d";
+}
+
+/* 列表循环 */
+.icon-Listloop:before {
+  content: "\e90e";
+}
+
+/* 随机播放 */
+.icon-ShufflePlayback:before {
+  content: "\e90f";
+}
