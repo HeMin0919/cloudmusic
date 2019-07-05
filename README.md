@@ -4,7 +4,7 @@
 
 ### 技术栈
 
-vue2.6 + vuex + vue-router + axios + ES6/7 + sass + flex + MuseUI
+vue2.6 + vuex + vue-router + axios + ES6 + sass + flex + MuseUI
 
 ### 已实现功能
 
